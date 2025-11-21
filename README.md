@@ -1,17 +1,18 @@
 # How to run
 Clone the github repo
-```git clone https://github.com/KSksip/ShatApp.git```
+````git clone https://github.com/KSksip/ShatApp.git````
 
 <br>
 cd into the repo
-```cd ShatApp/```
+````cd ShatApp/````
 
 <br>
 Install dependencies and run dev server
-```npm install
+````bash 
+npm install
 npm run dev
-```
+````
 
 <br>
 Build server
-```npm run build```
+````npm run build````
