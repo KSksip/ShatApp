@@ -1,3 +1,22 @@
-# Nitro starter
+# How to run
+Clone the github repo
+````bash
+git clone https://github.com/KSksip/ShatApp.git
+````
 
-Look at the [nitro quick start](https://nitro.build/guide#quick-start) to learn more how to get started.
+
+cd into the repo
+````bash
+cd ShatApp/
+````
+
+Install dependencies and run dev server
+````bash 
+npm install
+npm run dev
+````
+
+Build server
+````bash
+npm run build
+````
